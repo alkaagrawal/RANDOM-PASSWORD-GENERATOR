@@ -1,11 +1,10 @@
 # RANDOM-PASSWORD-GENERATOR
 
-
 A random password generator is a software program, hardware device, or online tool that automatically generates a password using parameters that a user sets, including mixed-case letters, numbers, symbols, pronounceability, length, and strength.
 
 In the project, it generates two 15-length random passwords after you click on the Generate Passwords button.
 
-The screenshots are provided below:
+## SCREENSHOTS:
 
 The interface:
 
